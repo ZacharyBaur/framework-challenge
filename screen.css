@@ -1,4 +1,6 @@
-/* Add screen styles below */
-a.active {
-    font-weight: bold;
+.inline-img {
+    width: 250px;
+    float: right;
+    margin-top: 10px;
+    margin-left: 10px;
 }
